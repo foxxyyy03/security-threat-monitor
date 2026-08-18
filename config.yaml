@@ -1,0 +1,9 @@
+unit42:
+  enabled: true
+
+  feed_url: https://unit42.paloaltonetworks.com/feed/
+
+  categories:
+    - Threat Research
+    - High Profile Threats
+    - Threat Actor Groups
