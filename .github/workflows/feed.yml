@@ -12,5 +12,5 @@ jobs:
         with:
           python-version: "3.12"
       - name: Run application
-        run: python src/main.py (http://main.py/)
+        run: python src/main.py
 
