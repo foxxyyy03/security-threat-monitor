@@ -1,9 +1,7 @@
 name: Security Threat Feed
-on:
-  workflow_dispatch:
-  
+on: 
   schedule:
-    - cron: "40 * * * *"
+    - cron: "05 * * * *"
 
 jobs:
   test:
