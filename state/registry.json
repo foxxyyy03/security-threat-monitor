@@ -11,11 +11,11 @@
     ],
     "tags": [],
     "first_seen": "2026-08-19T07:52:48.464538+00:00",
-    "status": "discovered",
+    "status": "published",
     "telegram": {
       "published": true,
-      "message_id": 19,
-      "published_at": "2026-08-19T09:13:47.558924+00:00",
+      "message_id": 21,
+      "published_at": "2026-08-19T11:12:57.609791+00:00",
       "last_error": null,
       "attempts": 0
     }
@@ -247,6 +247,386 @@
       "published": true,
       "message_id": 16,
       "published_at": "2026-08-19T08:41:02.476719+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "d7d7171ecfc4fc698b1e95b40326f20a07bf78fcd335f4f04f0c57ffd151898f": {
+    "source": "Tenable",
+    "source_type": "research",
+    "title": "Oracle August 2026 Critical Security Patch Update Addresses 925 CVEs",
+    "url": "https://www.tenable.com/blog/oracle-august-2026-critical-security-patch-update-cspu-addresses-925-cves",
+    "published": null,
+    "categories": [
+      "Cyber Exposure Alerts"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T11:13:04.088635+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 22,
+      "published_at": "2026-08-19T11:13:04.601844+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "4b63b8134d3b93905a19bae403303c8f35c2f0e28add8fea9befdb425c2af8c8": {
+    "source": "Tenable",
+    "source_type": "research",
+    "title": "The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure",
+    "url": "https://www.tenable.com/blog/the-agentic-ai-threat-cluster-seven-incidents-three-actors-and-what-they-mean",
+    "published": null,
+    "categories": [
+      "Cyber Exposure Alerts"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T11:13:04.090799+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 23,
+      "published_at": "2026-08-19T11:13:05.263367+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "bccb1ecbd3b964467d9c89a15b4b8a1a5b89dc052fa46e051f79831c7211c685": {
+    "source": "Tenable",
+    "source_type": "research",
+    "title": "Microsoft's August 2026 Patch Tuesday addresses 398 CVEs (CVE-2026-68820)",
+    "url": "https://www.tenable.com/blog/microsofts-august-2026-patch-tuesday-addresses-398-cves-cve-2026-68820",
+    "published": null,
+    "categories": [
+      "Cyber Exposure Alerts"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T11:13:04.093102+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 24,
+      "published_at": "2026-08-19T11:13:05.684400+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "02af0742f5370abb715ea69c8856236468d0126badbe1944e9db32cd05eb4015": {
+    "source": "Tenable",
+    "source_type": "research",
+    "title": "Coordinated \"cyberattack\" on U.S. water utilities: What you need to know",
+    "url": "https://www.tenable.com/blog/coordinated-cyberattack-on-minnesota-water-utilities-what-you-need-to-know",
+    "published": null,
+    "categories": [
+      "Cyber Exposure Alerts"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T11:13:04.095788+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 25,
+      "published_at": "2026-08-19T11:13:06.150055+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "a58159983da7209fa1a682b8714f58d5efbedec9891c5382613fa3040917e420": {
+    "source": "Tenable",
+    "source_type": "research",
+    "title": "Oracle July 2026 Critical Patch Update Addresses 1235 CVEs",
+    "url": "https://www.tenable.com/blog/oracle-july-2026-critical-patch-update-addresses-1235-cves",
+    "published": null,
+    "categories": [
+      "Cyber Exposure Alerts"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T11:13:04.097354+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 26,
+      "published_at": "2026-08-19T11:13:06.568427+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "30efe161bb42ff795a45252ed988ac627b36b49d40b50a93cc323777f8f67ca5": {
+    "source": "Tenable",
+    "source_type": "research",
+    "title": "wp2shell (CVE-2026-63030, CVE-2026-60137): Frequently asked questions about remote code execution chain in WordPress Core",
+    "url": "https://www.tenable.com/blog/wp2shell-cve-2026-63030-cve-2026-60137-frequently-asked-questions-about-remote-code-execution",
+    "published": null,
+    "categories": [
+      "Cyber Exposure Alerts"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T11:13:04.097858+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 27,
+      "published_at": "2026-08-19T11:13:09.978370+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "8a0bf3aadb4835ac080bf1198c29b328436ea8bd88d1492b28a4e9ae25231513": {
+    "source": "Tenable",
+    "source_type": "research",
+    "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+    "url": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation",
+    "published": null,
+    "categories": [
+      "Cyber Exposure Alerts"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T11:13:04.098438+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 28,
+      "published_at": "2026-08-19T11:13:10.500510+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "77310e743f7685890ae2e589a3389fc71d73ae41007a3abb32dbffd1f89452a2": {
+    "source": "Tenable",
+    "source_type": "research",
+    "title": "CVE-2026-15409, CVE-2026-15410: SonicWall SMA 1000 zero-day vulnerabilities exploited in the wild",
+    "url": "https://www.tenable.com/blog/cve-2026-15409-cve-2026-15410-sonicwall-sma-1000-zero-day-vulnerabilities-exploited-in-the",
+    "published": null,
+    "categories": [
+      "Cyber Exposure Alerts"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T11:13:04.099389+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 29,
+      "published_at": "2026-08-19T11:13:11.010133+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "76682a80dd7699206700709db32305b3049e157e147456b827ea8c89ce3364e5": {
+    "source": "Tenable",
+    "source_type": "research",
+    "title": "Microsoft’s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+    "url": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164",
+    "published": null,
+    "categories": [
+      "Cyber Exposure Alerts"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T11:13:04.102765+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 30,
+      "published_at": "2026-08-19T11:13:11.435918+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "0c1d64ae0e71d110d5e47763b1fa147ab8c977f5ba637062a9d5ca81f58e79f0": {
+    "source": "Tenable",
+    "source_type": "research",
+    "title": "Oracle June 2026 Critical Security Patch Update Addresses 243 CVEs (CVE-2026-35273)",
+    "url": "https://www.tenable.com/blog/oracle-june-2026-critical-security-patch-update-addresses-243-cves-cve-2026-35273",
+    "published": null,
+    "categories": [
+      "Cyber Exposure Alerts"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T11:13:04.107438+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 31,
+      "published_at": "2026-08-19T11:13:11.845345+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "65c599064e5b49fbd9649e9a31b24e94acb469ef66e064f5e72d68a69c3381e3": {
+    "source": "CERT-UA",
+    "source_type": "research",
+    "title": "Соціальна інженерія у виконанні UAC-0145: компрометація у процесі працевлаштування",
+    "url": "https://cert.gov.ua/article/6318863",
+    "published": "2026-08-08T17:02:33",
+    "categories": [
+      "CERT-UA"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T11:42:16.426653+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 34,
+      "published_at": "2026-08-19T11:42:16.770675+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "b6ba84745cdc81a329c59905b27190677e2986ee5d0fea7c1d1458b586fc4090": {
+    "source": "CERT-UA",
+    "source_type": "research",
+    "title": "UAC-0099: LUNCHPOKE, BURNYBEAR, оновлений MATCHBOIL.V2 та використання Notepad++ 8.8.3",
+    "url": "https://cert.gov.ua/article/6318634",
+    "published": "2026-07-21T18:45:18",
+    "categories": [
+      "CERT-UA"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T11:42:16.428370+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 43,
+      "published_at": "2026-08-19T11:50:25.806073+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "e3772337d689574c02cb1bab9f4217aa9327546aea76abe1ccfd30aed4c60b41": {
+    "source": "CERT-UA",
+    "source_type": "research",
+    "title": "Вектори первинної компрометації UAC-0145 станом на липень 2026 року",
+    "url": "https://cert.gov.ua/article/6318437",
+    "published": "2026-07-15T08:00:17",
+    "categories": [
+      "CERT-UA"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T11:42:16.430144+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 36,
+      "published_at": "2026-08-19T11:42:17.366046+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "08921b83fbe6c29915b22c991d820b83de9691b6802e353d7a4066cd03b45c80": {
+    "source": "CERT-UA",
+    "source_type": "research",
+    "title": "Оновлений інструментарій UAC-0057: OYSTERFRESH, OYSTERSHUCK та OYSTERBLUES",
+    "url": "https://cert.gov.ua/article/6315762",
+    "published": "2026-05-21T08:46:31",
+    "categories": [
+      "CERT-UA"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T11:42:16.431428+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 37,
+      "published_at": "2026-08-19T11:42:17.678519+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "5ccf1fc7071515480c77089b8282043b4db7d868bb8910ff593cb34375e36b7b": {
+    "source": "CERT-UA",
+    "source_type": "research",
+    "title": "Лікарні, органи місцевого самоврядування та оператори FPV - у фокусі кластера кіберзагроз UAC-0247 (UAC-0244)",
+    "url": "https://cert.gov.ua/article/6288271",
+    "published": "2026-04-15T03:01:06",
+    "categories": [
+      "CERT-UA"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T11:42:16.432864+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 38,
+      "published_at": "2026-08-19T11:42:18.006105+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "2f439faf9cbb7116ff4e1edef8dba7cf94b53616acc1a941aeb8c202f40ad8a2": {
+    "source": "CERT-UA",
+    "source_type": "research",
+    "title": "Кібератака UAC-0255 під виглядом сповіщення від CERT-UA із застосуванням програмного засобу AGEWHEEZE (CERT-UA#21075)",
+    "url": "https://cert.gov.ua/article/6288047",
+    "published": "2026-03-28T07:16:22",
+    "categories": [
+      "CERT-UA"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T11:42:16.435099+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 39,
+      "published_at": "2026-08-19T11:42:24.311876+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "831bfddc1b1672c5cf59cc5579c838bee527f3100eec491a83bb56cb38bf62b5": {
+    "source": "CERT-UA",
+    "source_type": "research",
+    "title": "Кібератаки UAC-0252 з використанням стілерів SHADOWSNIFF та SALATSTEALER (CERT-UA#20032)",
+    "url": "https://cert.gov.ua/article/6287707",
+    "published": "2026-03-02T09:47:22",
+    "categories": [
+      "CERT-UA"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T11:42:16.440611+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 40,
+      "published_at": "2026-08-19T11:42:24.841614+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "652b47dce8f0f0822183b3c8404fabdbba6053b0f0d16e6ead8897e9eecf0294": {
+    "source": "CERT-UA",
+    "source_type": "research",
+    "title": "\"Бюлетень небезпеки\": UAC-0001 (APT28) здійснює кібератаки у відношенні України та країн ЄС з використанням експлойту CVE-2026-21509 (CERT-UA#19542)",
+    "url": "https://cert.gov.ua/article/6287250",
+    "published": "2026-02-01T10:49:43",
+    "categories": [
+      "CERT-UA"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T11:42:16.443561+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 41,
+      "published_at": "2026-08-19T11:42:25.246448+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "2f00fed5b6a1bb8b3837405d785fff6dd5b15af143d670d527f320e5e2f9638a": {
+    "source": "CERT-UA",
+    "source_type": "research",
+    "title": "\"Неблагонадійний фонд\": цільові кібератаки UAC-0190 у відношенні СОУ з використанням PLUGGYAPE (CERT-UA#19092)",
+    "url": "https://cert.gov.ua/article/6286942",
+    "published": "2026-01-12T10:55:26",
+    "categories": [
+      "CERT-UA"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T11:42:16.445572+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 42,
+      "published_at": "2026-08-19T11:42:25.644377+00:00",
       "last_error": null,
       "attempts": 0
     }

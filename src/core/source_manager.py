@@ -7,11 +7,15 @@ and the main application.
 """
 
 from sources.unit42 import fetch_unit42
-
+from sources.tenable import fetch_tenable
+from sources.cert_ua import fetch_certua
 
 SOURCE_COLLECTORS = {
     "unit42": fetch_unit42,
-}
+    "tenable": fetch_tenable,
+    "certua": fetch_certua,
+     }
+
 
 
 def fetch_all_sources() -> list:

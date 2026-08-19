@@ -1,5 +1,3 @@
-# Security Threat Monitor configuration.
-
 sources:
 
   unit42:
@@ -15,6 +13,25 @@ sources:
       - Threat Research
       - High Profile Threats
       - Threat Actor Groups
+
+
+  tenable:
+    enabled: true
+    type: rss
+
+    feed_url: https://www.tenable.com/blog/cyber-exposure-alerts/feed
+
+    name: Tenable
+    hashtag: tenable
+
+  certua:
+    enabled: true
+    type: rss
+
+    feed_url: https://cert.gov.ua/api/articles/rss
+
+    name: CERT-UA
+    hashtag: certua
 
 
 telegram:
