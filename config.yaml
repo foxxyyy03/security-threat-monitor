@@ -1,3 +1,5 @@
+# Security Threat Monitor configuration.
+
 unit42:
   enabled: true
 

@@ -1,3 +1,9 @@
+"""
+Core data models.
+
+Defines the common FeedItem structure used by all data sources.
+"""
+
 from dataclasses import dataclass, field
 from datetime import datetime
 

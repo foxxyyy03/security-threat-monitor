@@ -1,9 +1,16 @@
+"""
+Unit 42 source collector.
+
+Fetches articles from the Unit 42 RSS feed, extracts article
+categories from individual pages, filters configured categories,
+and returns normalized FeedItem objects.
+"""
+
 import feedparser
 import yaml
 import requests
 
 from bs4 import BeautifulSoup
-from datetime import datetime
 
 from core.former import FeedItem
 from core.registry import generate_id
@@ -60,6 +67,8 @@ def parse_published_date(entry):
     """
 
     if hasattr(entry, "published_parsed") and entry.published_parsed:
+        from datetime import datetime
+
         return datetime(*entry.published_parsed[:6])
 
     return None
@@ -191,4 +200,3 @@ if __name__ == "__main__":
         print(
             f"URL:        {article.url}"
         )
-

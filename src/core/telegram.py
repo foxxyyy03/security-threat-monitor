@@ -1,3 +1,10 @@
+"""
+Article registry management.
+
+Stores article processing state and prevents duplicate processing
+and Telegram publications across application runs.
+"""
+
 import os
 import requests
 def send_message(text: str) -> None:

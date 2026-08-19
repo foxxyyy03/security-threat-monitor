@@ -1,0 +1,254 @@
+{
+  "2e25b4d1549218d1d93b9218bbe515a42204881fd3d2930b59d24897336e3dc7": {
+    "source": "Unit 42",
+    "source_type": "research",
+    "title": "Kimwolf v7: An Evolution of the Kimwolf Botnet",
+    "url": "https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/",
+    "published": "2026-08-11T10:00:16",
+    "categories": [
+      "Threat Research",
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T07:52:48.464538+00:00",
+    "status": "discovered",
+    "telegram": {
+      "published": false,
+      "message_id": null,
+      "published_at": null,
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "235268f9dd3e599acc489f0ea23460c7468b2674d77c4dbaad33e5e2e606f3ce": {
+    "source": "Unit 42",
+    "source_type": "research",
+    "title": "The Permanent Threat: Analyzing Aeternum’s Blockchain-Based C2 Operations and Communications",
+    "url": "https://unit42.paloaltonetworks.com/aeternum-blockchain-c2-analysis/",
+    "published": "2026-08-10T22:00:02",
+    "categories": [
+      "Threat Research",
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T07:52:48.464580+00:00",
+    "status": "discovered",
+    "telegram": {
+      "published": false,
+      "message_id": null,
+      "published_at": null,
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "89cee2888f3f93cc211c941ed19b65d2532ab8006571fd9cd406a37a00792cff": {
+    "source": "Unit 42",
+    "source_type": "research",
+    "title": "ChainDrop: Inside a Self-Propagating npm Worm",
+    "url": "https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/",
+    "published": "2026-08-06T22:26:39",
+    "categories": [
+      "Threat Research",
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T07:52:48.464592+00:00",
+    "status": "discovered",
+    "telegram": {
+      "published": false,
+      "message_id": null,
+      "published_at": null,
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "60c9ce076603ccf82f669261293c98a03357e7353f6d399610e89fef052120c7": {
+    "source": "Unit 42",
+    "source_type": "research",
+    "title": "Token Jacking: Cybercriminals Could Be Stealing Your AI Resources",
+    "url": "https://unit42.paloaltonetworks.com/ai-token-jacking/",
+    "published": "2026-08-06T10:00:49",
+    "categories": [
+      "Threat Research",
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T07:52:48.464604+00:00",
+    "status": "discovered",
+    "telegram": {
+      "published": false,
+      "message_id": null,
+      "published_at": null,
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "e27981c46e6e2f96be13bdf0b3be33f1ed48192ca954c7fba4e4e3d830ef4017": {
+    "source": "Unit 42",
+    "source_type": "research",
+    "title": "The Frontier AI Vulnerability Burst: Industrializing Autonomous Zero-Day Discovery in Open-Source Software",
+    "url": "https://unit42.paloaltonetworks.com/frontier-ai-vulnerability-burst/",
+    "published": "2026-08-04T13:00:11",
+    "categories": [
+      "High Profile Threats",
+      "Threat Research"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T07:52:48.464614+00:00",
+    "status": "discovered",
+    "telegram": {
+      "published": false,
+      "message_id": null,
+      "published_at": null,
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "42f878a67581ce3f719e8f2d473eb40df62d848a3e8254a1dee608828b30bc5f": {
+    "source": "Unit 42",
+    "source_type": "research",
+    "title": "Almost Half of Malware Samples Communicate Direct to IP",
+    "url": "https://unit42.paloaltonetworks.com/malware-bypass-dns-direct-to-ip/",
+    "published": "2026-08-04T12:50:53",
+    "categories": [
+      "Threat Research",
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T07:52:48.464629+00:00",
+    "status": "discovered",
+    "telegram": {
+      "published": false,
+      "message_id": null,
+      "published_at": null,
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "a3fa8112099ef9b5728605877adc7e2b82dbabc75aa34812a2a9a252ac80f2b6": {
+    "source": "Unit 42",
+    "source_type": "research",
+    "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+    "url": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
+    "published": "2026-08-03T10:00:35",
+    "categories": [
+      "Threat Research",
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T07:52:48.464640+00:00",
+    "status": "discovered",
+    "telegram": {
+      "published": false,
+      "message_id": null,
+      "published_at": null,
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "33a019a976975b051097ba97fb12d40a104bc5b1b70aec153bc02a7922c2b571": {
+    "source": "Unit 42",
+    "source_type": "research",
+    "title": "The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Version",
+    "url": "https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/",
+    "published": "2026-07-31T10:00:18",
+    "categories": [
+      "Threat Research",
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T07:52:48.464651+00:00",
+    "status": "discovered",
+    "telegram": {
+      "published": false,
+      "message_id": null,
+      "published_at": null,
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "bf8d747b9facafcdd0c5ecbcb1eedce6109efbc2b5325f861c7d298979a26f4d": {
+    "source": "Unit 42",
+    "source_type": "research",
+    "title": "Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks",
+    "url": "https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/",
+    "published": "2026-07-30T10:00:52",
+    "categories": [
+      "Threat Research",
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T07:52:48.464662+00:00",
+    "status": "discovered",
+    "telegram": {
+      "published": false,
+      "message_id": null,
+      "published_at": null,
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "5f2aac4bcb8302cbc173d75ccb6f0ca819e8dfde5c5e80f437afe597cc5dd52d": {
+    "source": "Unit 42",
+    "source_type": "research",
+    "title": "Russian Global Webmail Espionage",
+    "url": "https://unit42.paloaltonetworks.com/russian-webmail-espionage/",
+    "published": "2026-07-23T14:10:53",
+    "categories": [
+      "Threat Research",
+      "Threat Actor Groups"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T07:52:48.464672+00:00",
+    "status": "discovered",
+    "telegram": {
+      "published": false,
+      "message_id": null,
+      "published_at": null,
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "ee74a81b3849745c2bc74bfe84f7096a58083a7fd5c60aea42ae0b6c72865982": {
+    "source": "Unit 42",
+    "source_type": "research",
+    "title": "Three Steps to the Terminal: A Siemens ROX II Zero-Day Trilogy",
+    "url": "https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/",
+    "published": "2026-07-17T10:00:24",
+    "categories": [
+      "Threat Research",
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T07:52:48.464682+00:00",
+    "status": "discovered",
+    "telegram": {
+      "published": false,
+      "message_id": null,
+      "published_at": null,
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "bbb6da0dea027441976f84d30cc405e30828bdba33cf55296d384072a520a7be": {
+    "source": "Unit 42",
+    "source_type": "research",
+    "title": "The npm Threat Landscape: Attack Surface and Mitigations (Updated July 15)",
+    "url": "https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/",
+    "published": "2026-07-15T23:00:33",
+    "categories": [
+      "Threat Research",
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T07:52:48.464693+00:00",
+    "status": "discovered",
+    "telegram": {
+      "published": false,
+      "message_id": null,
+      "published_at": null,
+      "last_error": null,
+      "attempts": 0
+    }
+  }
+}
