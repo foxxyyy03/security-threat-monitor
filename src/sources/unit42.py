@@ -78,7 +78,12 @@ def fetch_unit42():
 
     config = load_config()
 
-    unit42_config = config.get("unit42", {})
+    sources_config = config.get("sources", {})
+
+    unit42_config = sources_config.get(
+        "unit42",
+        {}
+    )
 
     if not unit42_config.get("enabled", False):
         print("Unit 42 source is disabled.")
@@ -139,7 +144,7 @@ def fetch_unit42():
 
         item = FeedItem(
             id=item_id,
-            source="Unit 42",
+            source="Unit42",
             source_type="research",
             title=title,
             url=url,
@@ -150,6 +155,7 @@ def fetch_unit42():
                 "summary",
                 ""
             ).strip(),
+            hashtag="unit42"
         )
 
         articles[url] = item

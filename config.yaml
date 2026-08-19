@@ -1,11 +1,22 @@
 # Security Threat Monitor configuration.
 
-unit42:
+sources:
+
+  unit42:
+    enabled: true
+    type: rss
+
+    feed_url: https://unit42.paloaltonetworks.com/feed/
+
+    name: Unit42
+    hashtag: unit42
+
+    categories:
+      - Threat Research
+      - High Profile Threats
+      - Threat Actor Groups
+
+
+telegram:
   enabled: true
-
-  feed_url: https://unit42.paloaltonetworks.com/feed/
-
-  categories:
-    - Threat Research
-    - High Profile Threats
-    - Threat Actor Groups
+  parse_mode: HTML

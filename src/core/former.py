@@ -10,6 +10,10 @@ from datetime import datetime
 
 @dataclass
 class FeedItem:
+    """
+    Common normalized representation of a security information item.
+    """
+
     id: str
     source: str
     source_type: str
@@ -19,4 +23,4 @@ class FeedItem:
     categories: list[str] = field(default_factory=list)
     tags: list[str] = field(default_factory=list)
     summary: str = ""
-
+    hashtag: str = ""
