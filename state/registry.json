@@ -642,11 +642,11 @@
     ],
     "tags": [],
     "first_seen": "2026-08-19T12:28:04.023639+00:00",
-    "status": "discovered",
+    "status": "published",
     "telegram": {
       "published": true,
-      "message_id": 85,
-      "published_at": "2026-08-19T12:28:04.358778+00:00",
+      "message_id": 59,
+      "published_at": "2026-08-20T11:41:34.158627+00:00",
       "last_error": null,
       "attempts": 0
     }
@@ -899,6 +899,27 @@
       "published": true,
       "message_id": 97,
       "published_at": "2026-08-20T09:27:11.185754+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "43d319c9aabf9f9bdeb61fb0e4644ac5983d92f6795fe28cfa45c4f26491772f": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "Identity Abuse Through Trusted Communication Channels",
+    "url": "https://unit42.paloaltonetworks.com/communication-channel-identity-risks/",
+    "published": "2026-08-20T10:00:25",
+    "categories": [
+      "Threat Research",
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-20T11:41:30.611926+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 58,
+      "published_at": "2026-08-20T11:41:31.047581+00:00",
       "last_error": null,
       "attempts": 0
     }
