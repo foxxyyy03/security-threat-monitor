@@ -2,7 +2,7 @@ name: Security Threat Feed
 
 on:
   schedule:
-    - cron: "05 * * * *"
+    - cron: "17 * * * *"
 
 jobs:
   feed:
