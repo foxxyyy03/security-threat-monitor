@@ -923,5 +923,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "a14ae8840031f4a719bd124c7f74e3660a0224780e0e1de2dac2b64fe8e13364": {
+    "source": "Tenable",
+    "source_type": "research",
+    "title": "Frequently asked questions about the active threat to Siemens S7 Series PLCs",
+    "url": "https://www.tenable.com/blog/frequently-asked-questions-about-the-active-threat-to-siemens-s7-series-plcs",
+    "published": null,
+    "categories": [
+      "Cyber Exposure Alerts"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-20T14:54:46.886769+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 60,
+      "published_at": "2026-08-20T14:54:47.352497+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
