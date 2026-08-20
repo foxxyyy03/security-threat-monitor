@@ -1,3 +1,4 @@
+sources:
 
   unit42:
     enabled: true
@@ -50,14 +51,27 @@
       name: Hunt.io
       hashtag: huntio
 
-      victim_regions: 
-        - "EU"
-        - "Global"
-        - "Middle East"
       category: Threat Research
       start_date: "2026-06-01"
 
+hunt:
+    enabled: true
+    type: html
+
+    feed_url: "https://hunt.io/blog"
+
+    name: "Hunt.io"
+    hashtag: "huntio"
+
+    category: "Threat Research"
+    victim_regions:
+      - "EU"
+      - "Global"
+      - "Middle East"
+
+    start_date: "2026-06-01"
 
 telegram:
   enabled: true
   parse_mode: HTML
+
