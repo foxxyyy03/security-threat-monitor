@@ -28,8 +28,7 @@ def format_telegram_message(
     message = (
         f"#{escape(item.hashtag)} "
         f"#{DEFAULT_HASHTAG}\n"
-        f"<b>{escape(item.source)}: "
-        f"{escape(item.title)}</b>\n\n"
+        f"<b>{escape(item.title)}</b>\n\n"
         f"<i>{categories}</i>\n"
         f"{escape(item.url)}"
     )

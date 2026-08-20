@@ -630,5 +630,277 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "9446a50ae1d467645d5d9f2dcde0ae606eca827de266646733682eee2ac600e9": {
+    "source": "Sekoia",
+    "source_type": "research",
+    "title": "Don’t eat the ChocoPoCs! How vulnerability researchers were repeatedly targeted by trojanised exploits",
+    "url": "https://www.sekoia.com/blog/dont-eat-the-chocopocs-how-vulnerability-researchers-were-repeatedly-targeted-by-trojanised-exploits",
+    "published": "2026-07-01T00:00:00",
+    "categories": [
+      "Threat Research & Intelligence"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T12:28:04.023639+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 85,
+      "published_at": "2026-08-19T12:28:04.358778+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "7624383fd2890a219dae8576c5e5d97c72c1d32e1cad79cf967875a3bf6a6a26": {
+    "source": "Sekoia",
+    "source_type": "research",
+    "title": "Sold to the Highest Bidder: The Escalation of ADINT from Geolocation Tracking to Intrusion Vector",
+    "url": "https://www.sekoia.com/blog/sold-to-the-highest-bidder-the-escalation-of-adint-from-geolocation-tracking-to-intrusion-vector",
+    "published": "2026-06-25T00:00:00",
+    "categories": [
+      "Threat Research & Intelligence"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T12:28:04.026526+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 86,
+      "published_at": "2026-08-19T12:28:04.653417+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "6b1defc651002e383eaa9d2adc203bb4bc73530d243096988077db9dd3575f0e": {
+    "source": "Sekoia",
+    "source_type": "research",
+    "title": "Unveiling ErrTraffic: inside a growing ClickFix malware distribution framework",
+    "url": "https://www.sekoia.com/blog/unveiling-errtraffic-inside-a-growing-clickfix-malware-distribution-framework",
+    "published": "2026-06-16T00:00:00",
+    "categories": [
+      "Threat Research & Intelligence"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T12:28:04.028970+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 87,
+      "published_at": "2026-08-19T12:28:04.975774+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "717787ac7021a0861f8d77fb8f8822d1eedb57309d2db24ad271e7e73d854ba0": {
+    "source": "Sekoia",
+    "source_type": "research",
+    "title": "APT28, an evolution of tradecraft",
+    "url": "https://www.sekoia.com/blog/apt28-an-evolution-of-tradecraft",
+    "published": "2026-06-11T00:00:00",
+    "categories": [
+      "Threat Research & Intelligence"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T12:28:04.031431+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 88,
+      "published_at": "2026-08-19T12:28:05.278240+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "eff95b4e6f198a120e449eda32bbd61c810868bfbc1b642b0e0f526c619804e9": {
+    "source": "Sekoia",
+    "source_type": "research",
+    "title": "FSB’s matryoshka #3/3 - Gamaredon’s gifts that keeps unpacking - GammaSteel",
+    "url": "https://www.sekoia.com/blog/fsbs-matryoshka-3-3-gamaredons-gifts-that-keeps-unpacking-gammasteel",
+    "published": "2026-06-04T00:00:00",
+    "categories": [
+      "Threat Research & Intelligence"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T12:28:04.036167+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 89,
+      "published_at": "2026-08-19T12:28:05.584235+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "8fa10e41c34cc500c6ab47e67a3dc741fd313f49cf412f8751ce66617095a7cc": {
+    "source": "Sekoia",
+    "source_type": "research",
+    "title": "FSB’s matryoshka #2/3 - Gamaredon’s gifts that keeps unpacking - GammaLoad",
+    "url": "https://www.sekoia.com/blog/fsbs-matryoshka-2-3-gamaredons-gifts-that-keeps-unpacking-gammaload",
+    "published": "2026-06-03T00:00:00",
+    "categories": [
+      "Threat Research & Intelligence"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T12:28:04.037918+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 90,
+      "published_at": "2026-08-19T12:28:09.934310+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "273f9ff02701dff32bb12a49ebf0f44356ee3e39b93952a6b196e0cde066953d": {
+    "source": "Sekoia",
+    "source_type": "research",
+    "title": "FSB’s matryoshka #1/3 - Gamaredon’s gifts that keeps unpacking - GammaPhish and GammaWorm",
+    "url": "https://www.sekoia.com/blog/fsbs-matryoshka-1-3-gamaredons-gifts-that-keeps-unpacking-gammaphish-and-gammaworm",
+    "published": "2026-06-01T00:00:00",
+    "categories": [
+      "Threat Research & Intelligence"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-19T12:28:04.038751+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 91,
+      "published_at": "2026-08-19T12:28:10.323632+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "8c7da73ddda20ce5b4e9d06c72f73597f2670abe80d12cea3d54f2c80b5c4aa0": {
+    "source": "Hunt.io",
+    "source_type": "research",
+    "title": "Operation CameraSwarm:  Over 14,000 Dahua cameras compromised across Ukraine and Russia",
+    "url": "https://hunt.io/blog/operation-cameraswarm-dahua-cameras-compromised",
+    "published": "2026-08-18T00:00:00",
+    "categories": [
+      "Threat Research"
+    ],
+    "tags": [
+      "EU"
+    ],
+    "first_seen": "2026-08-20T09:27:03.104469+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 92,
+      "published_at": "2026-08-20T09:27:03.474360+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "df71b2294c7d4badd5765eb704e2b7a1f9c2eba7745b6d4927303fd66872ce48": {
+    "source": "Hunt.io",
+    "source_type": "research",
+    "title": "Inside a Russian-Speaking Operator's Toolkit for Compromising Ukrainian IP Cameras",
+    "url": "https://hunt.io/blog/russian-speaking-operator-ukrainian-camera-toolkit",
+    "published": "2026-08-10T00:00:00",
+    "categories": [
+      "Threat Research"
+    ],
+    "tags": [
+      "EU"
+    ],
+    "first_seen": "2026-08-20T09:27:03.105894+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 93,
+      "published_at": "2026-08-20T09:27:03.797208+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "0a6ca34bee7d0163888fd6bc600fbda7992b9b7ae96bc8e2986e133beb8eb215": {
+    "source": "Hunt.io",
+    "source_type": "research",
+    "title": "Open Directory Stages NGINX Rift and Ghost CMS Exploits Against Government and Finance Across Eleven Countries",
+    "url": "https://hunt.io/blog/open-directory-nginx-rift-ghost-cms-multi-cve",
+    "published": "2026-07-20T00:00:00",
+    "categories": [
+      "Threat Research"
+    ],
+    "tags": [
+      "EU"
+    ],
+    "first_seen": "2026-08-20T09:27:03.106737+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 94,
+      "published_at": "2026-08-20T09:27:04.186817+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "5e8a58f41ef4bf1f2bb953a97e482200ffff41c82808fc566f7c5464e7308909": {
+    "source": "Hunt.io",
+    "source_type": "research",
+    "title": "Suspected Chinese Operators Use Claude Code and DeepSeek to Target Government and Financial Systems Across Four Countries",
+    "url": "https://hunt.io/blog/chinese-operators-claude-deepseek-government-intrusion",
+    "published": "2026-07-14T00:00:00",
+    "categories": [
+      "Threat Research"
+    ],
+    "tags": [
+      "Middle East"
+    ],
+    "first_seen": "2026-08-20T09:27:03.108147+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 95,
+      "published_at": "2026-08-20T09:27:04.502491+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "5a8d3f24cc40cffc2a0981feea76a506d85ccf8dd83ae80987535cd6ef8a1bd6": {
+    "source": "Hunt.io",
+    "source_type": "research",
+    "title": "PCPJack Hijacked 230 AWS, GCP, and Azure Servers to Run a Hidden SMTP Relay Network",
+    "url": "https://hunt.io/blog/pcpjack-230-cloud-servers-smtp-proxy-network-sliver-chisel",
+    "published": "2026-06-03T00:00:00",
+    "categories": [
+      "Threat Research"
+    ],
+    "tags": [
+      "Global"
+    ],
+    "first_seen": "2026-08-20T09:27:03.110162+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 96,
+      "published_at": "2026-08-20T09:27:04.789101+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "ae00edcdf7a7be5b2b5c529eacd73e7f0d80d0da82c298633c7f665287d204f5": {
+    "source": "Hunt.io",
+    "source_type": "research",
+    "title": "Inside Eastern Europe's C2 Sprawl: 3,900+ Servers and 302 Providers Mapped (Updated)",
+    "url": "https://hunt.io/blog/eastern-europe-malicious-infrastructure-report",
+    "published": "2026-06-24T00:00:00",
+    "categories": [
+      "Threat Research"
+    ],
+    "tags": [
+      "EU"
+    ],
+    "first_seen": "2026-08-20T09:27:03.114800+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 97,
+      "published_at": "2026-08-20T09:27:11.185754+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }

@@ -9,11 +9,15 @@ and the main application.
 from sources.unit42 import fetch_unit42
 from sources.tenable import fetch_tenable
 from sources.cert_ua import fetch_certua
+from sources.sekoia import fetch_sekoia
+from sources.hunt import fetch_hunt
 
 SOURCE_COLLECTORS = {
     "unit42": fetch_unit42,
     "tenable": fetch_tenable,
     "certua": fetch_certua,
+    "sekoia": fetch_sekoia,
+    "huntio": fetch_hunt,
      }
 
 

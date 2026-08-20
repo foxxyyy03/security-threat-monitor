@@ -33,6 +33,31 @@ sources:
     name: CERT-UA
     hashtag: certua
 
+  sekoia:
+      enabled: true
+      type: html
+
+      name: Sekoia
+      hashtag: sekoia
+
+      category: Threat Research & Intelligence
+
+  hunt:
+      enabled: true
+      type: html
+
+      feed_url: https://hunt.io/blog
+
+      name: Hunt.io
+      hashtag: huntio
+
+      victim_regions: 
+        - "EU"
+        - "Global"
+        - "Middle East"
+      category: Threat Research
+      start_date: "2026-06-01"
+
 
 telegram:
   enabled: true
