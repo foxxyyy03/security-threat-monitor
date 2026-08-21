@@ -943,5 +943,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "3f429cfa982a99ef8f079c043f0a8daa0a7575948c087da0ef7e3db071150cc5": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain",
+    "url": "https://unit42.paloaltonetworks.com/sdlc-supply-chain/",
+    "published": "2026-08-21T23:00:21",
+    "categories": [
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-21T23:36:48.088844+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 61,
+      "published_at": "2026-08-21T23:36:48.558768+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
