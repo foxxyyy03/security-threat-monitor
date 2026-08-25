@@ -963,5 +963,26 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "b08d58b5f870539018efa9bc6aa5147703d585c49972238b9cc145dd8dbf0d17": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution",
+    "url": "https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/",
+    "published": "2026-08-25T10:00:57",
+    "categories": [
+      "Threat Research",
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-25T10:49:11.479205+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 62,
+      "published_at": "2026-08-25T10:49:13.193345+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
