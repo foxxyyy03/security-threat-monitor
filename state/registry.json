@@ -984,5 +984,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "c82c6578e7d18bb75041640e47e81f44ed71317f17d5b7d690626550d6aed27c": {
+    "source": "Tenable",
+    "source_type": "research",
+    "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+    "url": "https://www.tenable.com/blog/edge-infrastructure-under-siege",
+    "published": null,
+    "categories": [
+      "Cyber Exposure Alerts"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-26T13:16:24.232559+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 63,
+      "published_at": "2026-08-26T13:16:25.161020+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
