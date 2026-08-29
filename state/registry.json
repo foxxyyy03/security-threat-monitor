@@ -1004,5 +1004,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "484c1fc52b915423212fcc101fc289766623fc6848716131f42332aab96a1e0d": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "Perturbation Probing: A New Diagnostic for the Fragility of LLM Safety",
+    "url": "https://unit42.paloaltonetworks.com/perturbation-probing-llm-safety/",
+    "published": "2026-08-28T22:00:07",
+    "categories": [
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-29T02:10:11.008547+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 65,
+      "published_at": "2026-08-29T02:10:11.363466+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
