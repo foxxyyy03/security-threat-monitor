@@ -1024,5 +1024,26 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "0befd8aa6b7483339b480aa2c126373e87b6b398448b09f66afd715d0f521dec": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "Spring Ring: An Inside Look at Voice Phishing Campaigns in Microsoft Teams",
+    "url": "https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/",
+    "published": "2026-08-31T10:00:36",
+    "categories": [
+      "Threat Research",
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-08-31T13:46:06.775475+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 66,
+      "published_at": "2026-08-31T13:46:07.221328+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
