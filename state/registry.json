@@ -1045,5 +1045,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "76c8128757059f8a97512fe97cdefbdd3dfc84256e3ab7f24333477e72bacef8": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "An AI-Assisted Cyber Attack: Inside a Unit 42 Investigation",
+    "url": "https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/",
+    "published": "2026-09-02T10:00:46",
+    "categories": [
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-09-02T14:28:46.451399+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 67,
+      "published_at": "2026-09-02T14:28:46.979591+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
