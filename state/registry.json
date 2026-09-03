@@ -1065,5 +1065,26 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "4a6e6a0c559c842f313dba8b049440fa69dc2b787aa6191eec6ab7b98c869c40": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America",
+    "url": "https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/",
+    "published": "2026-09-03T10:00:58",
+    "categories": [
+      "Threat Research",
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-09-03T14:33:29.042194+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 70,
+      "published_at": "2026-09-03T14:33:29.423240+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
