@@ -1126,5 +1126,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "319c0e9c00f3364341109086d79a8d370a9d40ae76c97471e9f6b5826a830929": {
+    "source": "Tenable",
+    "source_type": "research",
+    "title": "Microsoft’s September 2026 Patch Tuesday addresses 964 CVEs (CVE-2026-81963, CVE-2026-85880)",
+    "url": "https://www.tenable.com/blog/microsofts-september-2026-patch-tuesday-addresses-964-cves-cve-2026-81963-cve-2026-85880",
+    "published": null,
+    "categories": [
+      "Cyber Exposure Alerts"
+    ],
+    "tags": [],
+    "first_seen": "2026-09-08T18:39:26.935924+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 74,
+      "published_at": "2026-09-08T18:39:27.444502+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
