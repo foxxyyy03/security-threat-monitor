@@ -1146,5 +1146,26 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "654fcccd2a963dd9e53315d4998bcedfebe8a9ef71a1f32cdf9832d0e1e65d46": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure",
+    "url": "https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/",
+    "published": "2026-09-09T10:00:55",
+    "categories": [
+      "Threat Research",
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-09-09T14:35:02.776552+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 75,
+      "published_at": "2026-09-09T14:35:03.302318+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
