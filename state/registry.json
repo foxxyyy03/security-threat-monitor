@@ -1167,5 +1167,26 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "1fb7fd98ae59f01cd8bb7c7cbcb05ab5e33dcdfefea54f676644e517a9109d79": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "The Machine With Many Faces: Post-Exploitation Identity Misuse in SPIFFE/SPIRE",
+    "url": "https://unit42.paloaltonetworks.com/kubernetes-spiffe-spire-identity-spoofing/",
+    "published": "2026-09-10T10:00:43",
+    "categories": [
+      "Threat Research",
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-09-10T14:25:39.473980+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 76,
+      "published_at": "2026-09-10T14:25:40.059940+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
