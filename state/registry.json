@@ -1188,5 +1188,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "9a8cbbca14b36a710e7216a5b7420f9b361da0e22ba13051bcdbc8f962b4aba8": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "Unmasking Cloud Identities: From Behavioral Clustering to Automated Detection",
+    "url": "https://unit42.paloaltonetworks.com/behavioral-clustering-map-to-cloud-identities/",
+    "published": "2026-09-14T10:00:01",
+    "categories": [
+      "Threat Research"
+    ],
+    "tags": [],
+    "first_seen": "2026-09-14T12:53:42.289070+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 77,
+      "published_at": "2026-09-14T12:53:42.862020+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
