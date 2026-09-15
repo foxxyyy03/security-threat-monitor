@@ -1208,5 +1208,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "9e2a10d9ce9edcf821c69b82c0716d940ff4a1b20836364bdf8ea0546e2a86c5": {
+    "source": "Tenable",
+    "source_type": "research",
+    "title": "Oracle September 2026 Critical Security Patch Update addresses 672 CVEs",
+    "url": "https://www.tenable.com/blog/oracle-september-2026-critical-security-patch-update-addresses-672-cves",
+    "published": null,
+    "categories": [
+      "Cyber Exposure Alerts"
+    ],
+    "tags": [],
+    "first_seen": "2026-09-15T21:19:43.697550+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 78,
+      "published_at": "2026-09-15T21:19:44.313884+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
