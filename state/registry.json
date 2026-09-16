@@ -1228,5 +1228,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "baca7133da8bb15a132cc1f9357475ac10839f4b404f5fefc8665a7c45892c86": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "Atomic macOS (AMOS) Stealer Activity",
+    "url": "https://unit42.paloaltonetworks.com/atomic-macos-amos-stealer-activity/",
+    "published": "2026-09-16T10:00:06",
+    "categories": [
+      "Threat Research"
+    ],
+    "tags": [],
+    "first_seen": "2026-09-16T11:30:23.283385+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 79,
+      "published_at": "2026-09-16T11:30:23.832809+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
