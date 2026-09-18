@@ -1248,5 +1248,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "9529d84cbb12bc688ab30bd4ec510e7f3d9b5dcf5f420a3560a465e5880205fe": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity",
+    "url": "https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/",
+    "published": "2026-09-18T10:00:36",
+    "categories": [
+      "Threat Research"
+    ],
+    "tags": [],
+    "first_seen": "2026-09-18T14:30:53.313344+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 80,
+      "published_at": "2026-09-18T14:30:53.985879+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
