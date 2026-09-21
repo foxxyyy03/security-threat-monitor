@@ -1268,5 +1268,45 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "97a93c86cfe9c0164701cfd8b4e639f6314fb519f182af85157dd535be48c60b": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "From Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials through Managed Policies",
+    "url": "https://unit42.paloaltonetworks.com/detecting-exposed-aws-iam-credentials/",
+    "published": "2026-09-21T10:00:13",
+    "categories": [
+      "Threat Research"
+    ],
+    "tags": [],
+    "first_seen": "2026-09-21T10:42:16.776280+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 81,
+      "published_at": "2026-09-21T10:42:17.287814+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "897eb0d9737b11e2bcb60c476a2483cd8d9abc11f8280c7416095872dee1730a": {
+    "source": "Sekoia",
+    "source_type": "research",
+    "title": "Exvicy: A copycat of the ErrTraffic malware distribution framework",
+    "url": "https://www.sekoia.com/blog/exvicy-a-copycat-of-the-errtraffic-malware-distribution-framework",
+    "published": "2026-09-21T00:00:00",
+    "categories": [
+      "Threat Research & Intelligence"
+    ],
+    "tags": [],
+    "first_seen": "2026-09-21T10:42:20.471986+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 82,
+      "published_at": "2026-09-21T10:42:20.851355+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
