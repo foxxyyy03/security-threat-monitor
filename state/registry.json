@@ -1308,5 +1308,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "94eac028524926d60b6327b845c2eeb7b521c34484265f356614f4539f2912e8": {
+    "source": "Tenable",
+    "source_type": "research",
+    "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+    "url": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities",
+    "published": null,
+    "categories": [
+      "Cyber Exposure Alerts"
+    ],
+    "tags": [],
+    "first_seen": "2026-09-27T13:56:43.102756+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 83,
+      "published_at": "2026-09-27T13:56:43.698211+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
