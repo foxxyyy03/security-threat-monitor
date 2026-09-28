@@ -1328,5 +1328,26 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "d7aa8b8a14faa83f77f40a7136a3526ebc534958a9a8bcdf4cde51afc01d489e": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild",
+    "url": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/",
+    "published": "2026-09-28T15:02:04",
+    "categories": [
+      "Threat Research",
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-09-28T15:25:53.337697+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 84,
+      "published_at": "2026-09-28T15:25:53.974182+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
