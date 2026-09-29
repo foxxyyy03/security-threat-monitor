@@ -1349,5 +1349,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "c54dc6688854003d7369304aca4a4bac577124d6b4a4708097a18ee00608f82c": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "OperTraitors: How Kubernetes Operators Betray Your Security Posture",
+    "url": "https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/",
+    "published": "2026-09-29T10:00:48",
+    "categories": [
+      "Threat Research"
+    ],
+    "tags": [],
+    "first_seen": "2026-09-29T15:50:11.049306+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 85,
+      "published_at": "2026-09-29T15:50:11.738013+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
