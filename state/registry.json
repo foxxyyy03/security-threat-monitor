@@ -1369,5 +1369,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "aee2754827839d956a1e8ff5e19e0e39cb7eae88d04be844ca499c0f1fd280ab": {
+    "source": "Sekoia",
+    "source_type": "research",
+    "title": "Gotta breach 'em all! The journey of ShinyHunters",
+    "url": "https://www.sekoia.com/blog/gotta-breach-em-all-the-journey-of-shinyhunters",
+    "published": "2026-10-01T00:00:00",
+    "categories": [
+      "Threat Research & Intelligence"
+    ],
+    "tags": [],
+    "first_seen": "2026-10-01T13:10:30.873071+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 86,
+      "published_at": "2026-10-01T13:10:31.497464+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
