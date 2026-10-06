@@ -1409,5 +1409,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "7669d3486c54769a8975b9d7bd69d6074086ff324c5827f988a375b83b2901d5": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "Blinder Tunnel Campaign Targets Iraqi Infrastructure",
+    "url": "https://unit42.paloaltonetworks.com/blinder-tunnel-targets-critical-infrastructure/",
+    "published": "2026-10-06T10:00:33",
+    "categories": [
+      "Threat Research"
+    ],
+    "tags": [],
+    "first_seen": "2026-10-06T15:09:56.250800+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 89,
+      "published_at": "2026-10-06T15:09:56.833067+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
