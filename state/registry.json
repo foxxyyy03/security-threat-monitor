@@ -1429,5 +1429,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "157b397d74a55ee57a84f72018146ca45ab1afcae072f4396ddb1189fa9fdd26": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "Evolution of Web3 in Cloud Supply Chain Attacks",
+    "url": "https://unit42.paloaltonetworks.com/web3-cloud-supply-chain-attacks/",
+    "published": "2026-10-07T22:00:16",
+    "categories": [
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-10-08T00:59:18.514595+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 90,
+      "published_at": "2026-10-08T00:59:19.044765+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
