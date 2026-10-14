@@ -1469,5 +1469,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "3189510d04d0afe0a1eb3318d92e89a9357a5c4fb58628a328e1636e9202106e": {
+    "source": "Tenable",
+    "source_type": "research",
+    "title": "Microsoft’s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951)",
+    "url": "https://www.tenable.com/blog/microsofts-october-2026-patch-tuesday-addresses-1407-cves-cve-2026-96951",
+    "published": null,
+    "categories": [
+      "Cyber Exposure Alerts"
+    ],
+    "tags": [],
+    "first_seen": "2026-10-14T01:56:50.544200+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 92,
+      "published_at": "2026-10-14T01:56:51.117650+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
