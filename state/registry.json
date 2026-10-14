@@ -1489,5 +1489,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "d73bcf51f60eea7482c2eee995bc57f9e62917b30fabcd29667e0aafafa758f3": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant",
+    "url": "https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/",
+    "published": "2026-10-14T22:00:44",
+    "categories": [
+      "Threat Research"
+    ],
+    "tags": [],
+    "first_seen": "2026-10-14T22:18:03.192824+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 93,
+      "published_at": "2026-10-14T22:18:03.779822+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
