@@ -1509,5 +1509,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "acb8dfd16f4d5560768a75707b0337edfcdcc3ab814ffae8c7dd57a9a6d4293a": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "AI-Powered Espionage Campaign Targets Government Linux Infrastructure",
+    "url": "https://unit42.paloaltonetworks.com/ai-campaign-targets-linux-infrastructure/",
+    "published": "2026-10-15T22:00:09",
+    "categories": [
+      "Threat Research"
+    ],
+    "tags": [],
+    "first_seen": "2026-10-16T00:23:20.171513+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 94,
+      "published_at": "2026-10-16T00:23:20.906069+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
