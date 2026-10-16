@@ -1529,5 +1529,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "d4038aa1c65fc90127c61ed6a55367cc738754eb871d6ab89384d4afa160e456": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026",
+    "url": "https://unit42.paloaltonetworks.com/top-5-initial-access-vectors-september-2026/",
+    "published": "2026-10-16T17:47:54",
+    "categories": [
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-10-16T19:56:54.762190+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 95,
+      "published_at": "2026-10-16T19:56:55.365482+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
