@@ -1549,5 +1549,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "3e11402c18f57a8435f407890d4fa3893a6e10baf89c958b9d1104f1ad3a3402": {
+    "source": "Sekoia",
+    "source_type": "research",
+    "title": "A honeypot's tale: Deconstructing an attack on GenAI infrastructure",
+    "url": "https://www.sekoia.com/blog/a-honeypots-tale-deconstructing-an-attack-on-genai-infrastructure",
+    "published": "2026-10-19T00:00:00",
+    "categories": [
+      "Threat Research & Intelligence"
+    ],
+    "tags": [],
+    "first_seen": "2026-10-19T13:15:47.414569+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 96,
+      "published_at": "2026-10-19T13:15:47.957521+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
