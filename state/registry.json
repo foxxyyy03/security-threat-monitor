@@ -1590,5 +1590,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "048475beaede031f194b66441da0d8057315893e13b4ac0b5df20665846b62f9": {
+    "source": "Tenable",
+    "source_type": "research",
+    "title": "Oracle October 2026 Critical Patch Update Addresses 1209 CVEs",
+    "url": "https://www.tenable.com/blog/oracle-october-2026-critical-patch-update-addresses-1209-cves",
+    "published": null,
+    "categories": [
+      "Cyber Exposure Alerts"
+    ],
+    "tags": [],
+    "first_seen": "2026-10-20T22:18:51.369655+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 98,
+      "published_at": "2026-10-20T22:18:51.865178+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
