@@ -1610,5 +1610,46 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "cb1bdeee47efc0de95777196842b8afe4c09842368bdc280ddb2a972ae164896": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619",
+    "url": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
+    "published": "2026-10-21T13:40:34",
+    "categories": [
+      "High Profile Threats",
+      "Threat Research"
+    ],
+    "tags": [],
+    "first_seen": "2026-10-21T13:46:12.205770+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 99,
+      "published_at": "2026-10-21T13:46:12.713972+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "d3583521232ef9054f38895432d728cbeef185440a1f4fdf8227028d5a90b382": {
+    "source": "Tenable",
+    "source_type": "research",
+    "title": "php2shell (CVE-2026-109618, CVE-2026-109619): Frequently asked questions about critical PHP remote code execution vulnerabilities",
+    "url": "https://www.tenable.com/blog/php2shell-cve-2026-109618-cve-2026-109619-frequently-asked-questions-about-critical-php-remote",
+    "published": null,
+    "categories": [
+      "Cyber Exposure Alerts"
+    ],
+    "tags": [],
+    "first_seen": "2026-10-21T13:46:16.908167+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 100,
+      "published_at": "2026-10-21T13:46:17.421282+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
