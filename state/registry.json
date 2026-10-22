@@ -1671,5 +1671,45 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "75be67009229052715d5b05e2d091b86d4d80ad454890c716067cfc2f58c4e11": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "EMudhra Intermediate CA Certificates Compromised",
+    "url": "https://unit42.paloaltonetworks.com/emudhra-certificate-compromise/",
+    "published": "2026-10-22T17:15:32",
+    "categories": [
+      "Threat Research"
+    ],
+    "tags": [],
+    "first_seen": "2026-10-22T18:30:59.343664+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 102,
+      "published_at": "2026-10-22T18:30:59.887434+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
+  },
+  "c59df92f9aff8257d9bb3aa80022316c11f68919d8e74e07d03abca10916e8fa": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "The Current Landscape of OAuth Attacks",
+    "url": "https://unit42.paloaltonetworks.com/current-landscape-oauth-attacks/",
+    "published": "2026-10-22T17:00:25",
+    "categories": [
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-10-22T18:30:59.344951+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 103,
+      "published_at": "2026-10-22T18:31:00.380445+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
