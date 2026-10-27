@@ -1711,5 +1711,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "e74144bce34b9c22178ac7c6fb9de15de2c6ea0e7bb1244da235c3a16592da11": {
+    "source": "Tenable",
+    "source_type": "research",
+    "title": "Brotli2Shell: Frequently asked questions for Google Brotli decoder vulnerability (CVE-2026-111497)",
+    "url": "https://www.tenable.com/blog/brotli2shell-frequently-asked-questions-for-google-brotli-decoder-cve-2026-111497",
+    "published": null,
+    "categories": [
+      "Cyber Exposure Alerts"
+    ],
+    "tags": [],
+    "first_seen": "2026-10-27T02:04:06.232572+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 104,
+      "published_at": "2026-10-27T02:04:06.728578+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
