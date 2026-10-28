@@ -1731,5 +1731,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "2bc2dea87b352af6a23a4ac4f402af3e7b45a62ffb63ba08d69176ad409f15eb": {
+    "source": "Sekoia",
+    "source_type": "research",
+    "title": "PHP2Shell was exploited before the patch. Expect more of it.",
+    "url": "https://www.sekoia.com/blog/php2shell-was-exploited-before-the-patch-expect-more-of-it",
+    "published": "2026-10-28T00:00:00",
+    "categories": [
+      "Threat Research & Intelligence"
+    ],
+    "tags": [],
+    "first_seen": "2026-10-28T12:51:40.923267+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 105,
+      "published_at": "2026-10-28T12:51:41.453155+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
