@@ -1751,5 +1751,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "ba9ce4df4e5d55df9b3eabcfe991651896ab4310c4341eb672ae35a1ddfab747": {
+    "source": "Tenable",
+    "source_type": "research",
+    "title": "php2shell one week later: Why one exploit doesn’t work everywhere",
+    "url": "https://www.tenable.com/blog/php2shell-one-week-later-why-one-exploit-doesnt-work-everywhere",
+    "published": null,
+    "categories": [
+      "Cyber Exposure Alerts"
+    ],
+    "tags": [],
+    "first_seen": "2026-10-30T08:37:21.205664+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 106,
+      "published_at": "2026-10-30T08:37:21.665133+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
