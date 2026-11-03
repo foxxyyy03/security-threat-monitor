@@ -1771,5 +1771,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "9f7f463866df0019cb2ec91bbf382b6485720e5f569eb9b5e042e82d3d3fad04": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "Unit 42 Threat Intelligence Highlights - Nov. 2, 2026",
+    "url": "https://unit42.paloaltonetworks.com/u42-threat-intelligence-highlights-oct-2026/",
+    "published": "2026-11-02T23:00:45",
+    "categories": [
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-11-03T01:34:27.420595+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 107,
+      "published_at": "2026-11-03T01:34:27.850803+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
