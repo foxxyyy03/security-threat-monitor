@@ -1791,5 +1791,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "172c9516eb85d9143e6ce707b1ee858f86053dfe26a9a7691a110c0312640316": {
+    "source": "Sekoia",
+    "source_type": "research",
+    "title": "Poisoned Source: APT29 watering holes target mobile devices with n-day exploits",
+    "url": "https://www.sekoia.com/blog/poisoned-source-apt29-watering-holes-targets-mobile-devices-with-n-day-exploits",
+    "published": "2026-11-04T00:00:00",
+    "categories": [
+      "Threat Research & Intelligence"
+    ],
+    "tags": [],
+    "first_seen": "2026-11-04T06:15:38.983258+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 108,
+      "published_at": "2026-11-04T06:15:39.321149+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
