@@ -1811,5 +1811,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "6139f319deead2edb08d1d7af176338defcacc5545d3139da3c111d4c805728c": {
+    "source": "Sekoia",
+    "source_type": "research",
+    "title": "The Cold Chain on Fire : Unpatched Danfoss controllers exploited",
+    "url": "https://www.sekoia.com/blog/the-cold-chain-on-fire-unpatched-danfoss-controllers-exploited",
+    "published": "2026-11-10T00:00:00",
+    "categories": [
+      "Threat Research & Intelligence"
+    ],
+    "tags": [],
+    "first_seen": "2026-11-09T18:46:24.540515+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 110,
+      "published_at": "2026-11-09T18:46:25.090638+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
