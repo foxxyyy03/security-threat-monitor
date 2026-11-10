@@ -1831,5 +1831,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "7d3f817fd972763e77cdfaca6c9f7215476819c64ffcc0a2ccf699e1ce225b85": {
+    "source": "Tenable",
+    "source_type": "research",
+    "title": "Microsoft’s November 2026 Patch Tuesday addresses 1093 CVEs (CVE-2026-124194)",
+    "url": "https://www.tenable.com/blog/microsoft-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194",
+    "published": null,
+    "categories": [
+      "Cyber Exposure Alerts"
+    ],
+    "tags": [],
+    "first_seen": "2026-11-10T23:17:51.546150+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 113,
+      "published_at": "2026-11-10T23:17:51.977217+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
