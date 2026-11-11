@@ -1851,5 +1851,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "f47476bb07fbaeb88a16e0f3ef78d4ea2a348fee1c9ec5abec291faa6e31f7e2": {
+    "source": "Tenable",
+    "source_type": "research",
+    "title": "Able2Shell: Frequently asked questions for reported N-able N-central zero-day vulnerabilities",
+    "url": "https://www.tenable.com/blog/able2shell-frequently-asked-questions-for-reported-n-able-n-central-zero-day-vulnerabilities",
+    "published": null,
+    "categories": [
+      "Cyber Exposure Alerts"
+    ],
+    "tags": [],
+    "first_seen": "2026-11-11T10:54:09.000032+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 114,
+      "published_at": "2026-11-11T10:54:09.362531+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
