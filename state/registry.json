@@ -1871,5 +1871,26 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "9ad4b08f72627f2804ad0d446ab60673cf07f9e0b2e45d6d59390e9908efad29": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "The XG Files: Falcon C2 Flying Under The (Browser) Radar",
+    "url": "https://unit42.paloaltonetworks.com/falcon-c2-browser-compromise/",
+    "published": "2026-11-11T15:00:23",
+    "categories": [
+      "High Profile Threats",
+      "Threat Research"
+    ],
+    "tags": [],
+    "first_seen": "2026-11-11T18:41:31.519112+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 115,
+      "published_at": "2026-11-11T18:41:31.993844+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
