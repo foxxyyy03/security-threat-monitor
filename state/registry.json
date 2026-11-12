@@ -1912,5 +1912,26 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "4f6c490e5578b73af33031063c8966af8e7e9e3967e2eaf4093d8d3c8fe41837": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "Attackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society Sectors",
+    "url": "https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/",
+    "published": "2026-11-12T15:00:31",
+    "categories": [
+      "Threat Research",
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-11-12T18:18:09.537585+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 117,
+      "published_at": "2026-11-12T18:18:10.027021+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
