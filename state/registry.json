@@ -1892,5 +1892,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "b7b40a3784e9795b68cd2b758f19c5d4539f20b18a2fadc8bcd2f428d44098d3": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know",
+    "url": "https://unit42.paloaltonetworks.com/artex-and-ai-powered-red-teaming-tools/",
+    "published": "2026-11-11T23:00:53",
+    "categories": [
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-11-12T01:31:55.042414+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 116,
+      "published_at": "2026-11-12T01:31:55.425619+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
