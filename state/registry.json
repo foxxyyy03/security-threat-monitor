@@ -1933,5 +1933,26 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "1d31e6e96599f4b26dc2cdb7b13d8a63e8817a90fd1a20a850e64a9c25c02313": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments",
+    "url": "https://unit42.paloaltonetworks.com/custom-rats-target-southeast-asia-governments/",
+    "published": "2026-11-16T23:00:55",
+    "categories": [
+      "Threat Research",
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-11-17T03:50:24.927724+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 118,
+      "published_at": "2026-11-17T03:50:25.494078+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
