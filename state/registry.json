@@ -1974,5 +1974,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "a0f5dbbd52e5e59bc24745d6624aee4429d458cfb4ab151b65834bdcbac381d2": {
+    "source": "Tenable",
+    "source_type": "research",
+    "title": "Oracle November 2026 Critical Security Patch Update Addresses 640 CVEs (CVE-2026-114938)",
+    "url": "https://www.tenable.com/blog/oracle-november-2026-critical-security-patch-update-addresses-640-cves-cve-2026-114938",
+    "published": null,
+    "categories": [
+      "Cyber Exposure Alerts"
+    ],
+    "tags": [],
+    "first_seen": "2026-11-17T22:20:09.838060+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 120,
+      "published_at": "2026-11-17T22:20:10.367088+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
