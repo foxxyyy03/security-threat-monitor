@@ -2014,5 +2014,25 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "81380df21cffbf0d0b6aad6604d3bfe92773d7df8f8518885e15bfa829fe2c3b": {
+    "source": "Tenable",
+    "source_type": "research",
+    "title": "NGINX2Root (CVE-2026-123007): Frequently asked questions about five critical NGINX vulnerabilities",
+    "url": "https://www.tenable.com/blog/nginx2root-cve-2026-123007-frequently-asked-questions-about-five-critical-nginx",
+    "published": null,
+    "categories": [
+      "Cyber Exposure Alerts"
+    ],
+    "tags": [],
+    "first_seen": "2026-11-19T03:23:20.601746+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 122,
+      "published_at": "2026-11-19T03:23:21.127024+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
