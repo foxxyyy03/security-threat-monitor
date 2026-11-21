@@ -2034,5 +2034,26 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "b7f0e2a6724fed8a1254d8c71f327537ade0d6edf3ea64e9dadb061a054a42ac": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "Dialing for Data: Inside the Com’s High-Profile Heists",
+    "url": "https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/",
+    "published": "2026-11-20T22:00:25",
+    "categories": [
+      "Threat Research",
+      "Threat Actor Groups"
+    ],
+    "tags": [],
+    "first_seen": "2026-11-21T01:30:30.829088+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 123,
+      "published_at": "2026-11-21T01:30:31.445316+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
