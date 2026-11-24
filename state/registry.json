@@ -2055,5 +2055,26 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "7e4b2424798644c937d3ccec527ca0a26ef8e3ec40dc1b3b99e29c84e640ea81": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "Recent Trends and Tactics of Agentic AI Attacks",
+    "url": "https://unit42.paloaltonetworks.com/autonomous-ai-agent-threat-campaigns/",
+    "published": "2026-11-24T15:00:19",
+    "categories": [
+      "Threat Research",
+      "High Profile Threats"
+    ],
+    "tags": [],
+    "first_seen": "2026-11-24T17:39:37.348300+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 124,
+      "published_at": "2026-11-24T17:39:37.761777+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
