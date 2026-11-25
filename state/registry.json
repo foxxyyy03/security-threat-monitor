@@ -2076,5 +2076,26 @@
       "last_error": null,
       "attempts": 0
     }
+  },
+  "6d41187434b589d5df953e851c2f693240807afe5ad62d98886f4c6b1eec3ebf": {
+    "source": "Unit42",
+    "source_type": "research",
+    "title": "NGINX HTTP/2 Use-After-Free: CVE-2026-123633",
+    "url": "https://unit42.paloaltonetworks.com/cve-2026-123633-nginx-http2-vulnerability/",
+    "published": "2026-11-24T23:00:14",
+    "categories": [
+      "High Profile Threats",
+      "Threat Research"
+    ],
+    "tags": [],
+    "first_seen": "2026-11-25T02:24:15.301289+00:00",
+    "status": "published",
+    "telegram": {
+      "published": true,
+      "message_id": 125,
+      "published_at": "2026-11-25T02:24:15.775041+00:00",
+      "last_error": null,
+      "attempts": 0
+    }
   }
 }
